@@ -133,10 +133,10 @@ Total final: R$ 961.0
 
 ## 👤 Autores
 
-[Bruno Cesar Jesus de Almeida](https://github.com/BrunoJesus6),
-Felipe Tavares,
-João Victor de Lima Pereira,
-Lucas de Paiva Ribeiro,
-[Lucas Leite Montes](https://github.com/lucasLmontes),
-[Murilo Theodoro Fenner Leite](https://github.com/MuriloLeite),
-Pedro Lucas Atalaia
+- [Bruno Cesar Jesus de Almeida](https://github.com/BrunoJesus6),
+- [Felipe Tavares](https://github.com/Felipedrt01),
+- [João Victor de Lima Pereira](https://github.com/JvLp2000),
+- [Lucas de Paiva Ribeiro](https://github.com/lucasribeiroti),
+- [Lucas Leite Montes](https://github.com/lucasLmontes),
+- [Murilo Theodoro Fenner Leite](https://github.com/MuriloLeite),
+- [Pedro Lucas Atalaia](https://github.com/Pedro2077)
