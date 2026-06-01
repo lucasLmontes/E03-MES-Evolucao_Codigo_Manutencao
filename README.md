@@ -1,6 +1,6 @@
 # ED03 — Evolução de Código e Manutenibilidade
 
-Projeto desenvolvido como atividade prática da disciplina de **Engenharia de Software**, demonstrando a evolução de um código mal estruturado para uma solução orientada a objetos com boas práticas de manutenibilidade.
+Projeto desenvolvido como atividade prática da disciplina de **Sistemas de Informação**, demonstrando a evolução de um código mal estruturado para uma solução orientada a objetos com boas práticas de manutenibilidade.
 
 ---
 
@@ -131,6 +131,12 @@ Total final: R$ 961.0
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-Desenvolvido como atividade da disciplina de Engenharia de Software.
+[Bruno Cesar Jesus de Almeida](https://github.com/BrunoJesus6),
+Felipe Tavares,
+João Victor de Lima Pereira,
+Lucas de Paiva Ribeiro,
+[Lucas Leite Montes](https://github.com/lucasLmontes),
+[Murilo Theodoro Fenner Leite](https://github.com/MuriloLeite),
+Pedro Lucas Atalaia
